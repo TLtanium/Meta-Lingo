@@ -1,2 +1,148 @@
 # Meta-Lingo
-次世代多模态语料分析平台，为语言学家、研究人员和学生提供从数据管理到深度分析的一站式解决方案。
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/27e7d9fd-a71e-498a-b33d-7c789873b8e7" alt="Meta-Lingo Background" width="600" height="300">
+  
+  <h3>探索语言的无限可能</h3>
+  <p>次世代多模态语料分析平台，为语言学家、研究人员和学生提供从数据管理到深度分析的一站式解决方案</p>
+  
+  <a href="https://github.com/username/meta-lingo/releases/latest">
+    <img src="https://img.shields.io/github/v/release/username/meta-lingo?style=for-the-badge&color=4361ee" alt="Latest Release">
+  </a>
+  <a href="https://github.com/username/meta-lingo/releases">
+    <img src="https://img.shields.io/github/downloads/username/meta-lingo/total?style=for-the-badge&color=4895ef" alt="Downloads">
+  </a>
+  <a href="https://github.com/username/meta-lingo/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/username/meta-lingo?style=for-the-badge&color=3f37c9" alt="License">
+  </a>
+</div>
+
+## 🌟 特色功能
+
+### 📊 语料库管理
+- **统一语料库管理**：支持多种格式导入与智能组织，高效管理您的语言数据资源
+- **灵活的数据导入**：支持TXT、CSV、JSON等多种文件格式
+- **智能分类系统**：自动识别和组织不同类型的语言数据
+
+### 📈 词频统计
+- **多维度词频分析引擎**：提供词频统计、关键词提取和可视化展示功能
+- **高级过滤选项**：支持词性过滤、频率范围筛选
+- **交互式图表**：直观的数据可视化界面
+
+### 🔗 搭配分析
+- **深度搭配分析工具**：支持KWIC索引、词图分析和语义搭配发现
+- **KWIC检索系统**：快速定位目标词汇的上下文环境
+- **搭配网络可视化**：展示词汇间的关联关系
+
+### 🧠 语义分析
+- **基于USAS语义标注系统**：深度语义分析，提供多语言语义域识别
+- **语义场分析**：识别文本中的语义关系和主题分布
+- **跨语言支持**：支持中英文等多种语言的语义分析
+
+### 🏷️ 语义标注
+- **灵活的语义标注框架**：支持自定义标注体系和层次化标注
+- **批量标注功能**：提高标注效率的自动化工具
+- **标注质量控制**：内置一致性检查和验证机制
+
+### 🌳 语法模式
+- **强大的语法模式识别引擎**：支持词性模式、句法模式和自定义查询
+- **正则表达式支持**：灵活的模式匹配功能
+- **语法树可视化**：直观展示句法结构
+
+### 📚 传统建模
+- **经典的统计建模方法**：包括LDA主题建模和传统机器学习算法
+- **参数优化**：自动调优模型参数以获得最佳效果
+- **模型评估**：提供多种评估指标和可视化结果
+
+### 🤖 主题建模
+- **基于BERTopic的现代主题建模技术**：结合UMAP降维和HDBSCAN聚类
+- **动态主题追踪**：观察主题随时间的变化趋势
+- **交互式主题探索**：深入了解每个主题的特征
+
+## 🚀 快速开始
+
+### 系统要求
+
+- **Windows**: Windows 10/11 (64位)
+- **macOS**: macOS 10.15+ (支持Apple Silicon和Intel芯片)
+- **Linux**: 开发中（敬请期待）
+
+### 下载安装
+
+前往 [Releases](https://github.com/username/meta-lingo/releases/latest) 页面下载适合您系统的版本：
+
+- **Windows用户**: 下载 `Meta-Lingo-v2.1.3.exe`
+- **macOS用户**: 下载 `Meta-Lingo-v2.1.3.dmg`
+
+### 基本使用
+
+1. **创建新项目**：启动Meta-Lingo后，创建一个新的语料分析项目
+2. **导入数据**：使用语料库管理功能导入您的文本数据
+3. **选择分析方法**：根据研究需求选择相应的分析工具
+4. **查看结果**：通过可视化界面查看分析结果并导出报告
+
+## 📖 功能演示
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d5bc447c-02f8-4756-943a-8d6fe5ab43b2" alt="Meta-Lingo主界面" width="800">
+  <p><em>Meta-Lingo主界面展示</em></p>
+</div>
+
+## 📋 更新日志
+
+### v2.1.3 (2025年9月15日)
+- ✅ 新增支持本地Ollama模型接口
+- ✅ 优化了语义标注界面和工作流程
+- ✅ 改进了传统建模（LDA）的参数调优
+- ✅ 修复了多个用户界面问题
+- ✅ 提升了大型语料库的处理速度
+
+### v2.1.0 (2025年7月22日)
+- ✅ 新增传统建模（LDA）功能模块
+- ✅ 完善了语义标注的框架管理系统
+- ✅ 优化了内存管理和缓存机制
+- ✅ 修复了macOS版本的兼容性问题
+- ✅ 改进了语法模式识别准确率
+
+[查看完整更新日志](CHANGELOG.md)
+
+## 🛠️ 技术架构
+
+Meta-Lingo采用现代化的技术栈构建：
+
+- **前端框架**: 基于Electron的跨平台桌面应用
+- **NLP引擎**: 集成NLTK、spaCy、transformers等主流NLP库
+- **机器学习**: 支持scikit-learn、BERTopic等先进算法
+- **数据处理**: 高效的pandas和numpy数据处理管道
+- **可视化**: 集成matplotlib、plotly等可视化库
+
+## 🤝 贡献指南
+
+我们欢迎社区贡献！如果您想为Meta-Lingo做出贡献：
+
+1. Fork本仓库
+2. 创建功能分支 (`git checkout -b feature/AmazingFeature`)
+3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
+4. 推送到分支 (`git push origin feature/AmazingFeature`)
+5. 创建Pull Request
+
+## 📧 联系我们
+
+- **开发者邮箱**: [20250310039@mail.gdufs.edu.cn](mailto:20250310039@mail.gdufs.edu.cn)
+- **学术主页**: [广东外语外贸大学](https://www.gdufs.edu.cn)
+- **视频教程**: [Bilibili](https://b23.tv/BfBgWGV)
+
+## 📄 许可证
+
+本项目采用 Apache 2.0 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
+
+## 🙏 致谢
+
+感谢所有为Meta-Lingo项目做出贡献的研究者和开发者。特别感谢语言学研究社区对本项目的支持和反馈。
+
+---
+
+<div align="center">
+  <p>© 2024-2025 Meta-Lingo 版权所有 | 元语言</p>
+  <p>为语言学研究提供专业工具和资源</p>
+</div>
