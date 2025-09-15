@@ -1,20 +1,11 @@
 # Meta-Lingo
 
 <div align="center">
-  <img src="./images/icon_1024x1024.png" alt="Meta-Lingo Logo" width="200" height="200">
+  <img src="https://github.com/user-attachments/assets/27e7d9fd-a71e-498a-b33d-7c789873b8e7" alt="Meta-Lingo Background" width="600" height="300">
   
   <h3>探索语言的无限可能</h3>
   <p>次世代多模态语料分析平台，为语言学家、研究人员和学生提供从数据管理到深度分析的一站式解决方案</p>
   
-  <a href="https://github.com/username/meta-lingo/releases/latest">
-    <img src="https://img.shields.io/github/v/release/username/meta-lingo?style=for-the-badge&color=4361ee" alt="Latest Release">
-  </a>
-  <a href="https://github.com/username/meta-lingo/releases">
-    <img src="https://img.shields.io/github/downloads/username/meta-lingo/total?style=for-the-badge&color=4895ef" alt="Downloads">
-  </a>
-  <a href="https://github.com/username/meta-lingo/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/username/meta-lingo?style=for-the-badge&color=3f37c9" alt="License">
-  </a>
 </div>
 
 ## 🌟 特色功能
@@ -69,8 +60,6 @@
 
 ### 下载安装
 
-前往 [[Releases](https://github.com/username/meta-lingo/releases/latest)](https://github.com/username/meta-lingo/releases/latest) 页面下载适合您系统的版本：
-
 - **Windows用户**: 下载 `Meta-Lingo-v2.1.3.exe`
 - **macOS用户**: 下载 `Meta-Lingo-v2.1.3.dmg`
 
@@ -104,8 +93,6 @@
 - ✅ 修复了macOS版本的兼容性问题
 - ✅ 改进了语法模式识别准确率
 
-[[查看完整更新日志](https://claude.ai/chat/CHANGELOG.md)](CHANGELOG.md)
-
 ## 🛠️ 技术架构
 
 Meta-Lingo采用现代化的技术栈构建：
@@ -134,7 +121,7 @@ Meta-Lingo采用现代化的技术栈构建：
 
 ## 📄 许可证
 
-本项目采用 MIT 许可证 - 查看 [[LICENSE](https://claude.ai/chat/LICENSE)](LICENSE) 文件了解详情。
+本项目采用 Apache 2.0 许可证 - 查看 LICENSE 文件了解详情。
 
 ## 🙏 致谢
 
