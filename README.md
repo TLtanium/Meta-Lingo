@@ -69,13 +69,6 @@
 3. **选择分析方法**：根据研究需求选择相应的分析工具
 4. **查看结果**：通过可视化界面查看分析结果并导出报告
 
-## 📖 功能演示
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/d5bc447c-02f8-4756-943a-8d6fe5ab43b2" alt="Meta-Lingo主界面" width="800">
-  <p><em>Meta-Lingo主界面展示</em></p>
-</div>
-
 ## 📋 更新日志
 
 ### v2.1.3 (2025年9月15日)
